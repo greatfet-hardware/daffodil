@@ -1,4 +1,4 @@
-# GreatFET Daffodil
+# Daffodil
 A GreatFET Neighbor for prototyping GreatFET neighbors!
 
 Also useful for prototyping other circuits.
