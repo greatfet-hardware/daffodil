@@ -12,6 +12,7 @@
   (page A4)
   (title_block
     (title "Daffodil: A Sodlerless Breadboard Neighbor for GreatFET One")
+    (date 2020-04-09)
     (rev 1.0)
     (company "Copyright 2015 Michael Ossmann")
     (comment 1 "License: CERN-OHL-P v2")

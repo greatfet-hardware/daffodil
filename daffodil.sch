@@ -6,8 +6,8 @@ $Descr USLedger 17000 11000
 encoding utf-8
 Sheet 1 1
 Title "Daffodil: A Solderless Breadboard Neighbor for GreatFET One"
-Date "2015-09-24"
-Rev ""
+Date "2020-04-09"
+Rev "1.0"
 Comp "Copyright 2015 Michael Ossmann"
 Comment1 "License: CERN-OHL-P v2"
 Comment2 ""
