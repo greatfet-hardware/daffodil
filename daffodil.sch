@@ -5,7 +5,7 @@ EELAYER END
 $Descr USLedger 17000 11000
 encoding utf-8
 Sheet 1 1
-Title "GreatFET Neighbor Template"
+Title "Daffodil: A Solderless Breadboard Neighbor for GreatFET One"
 Date "2015-09-24"
 Rev ""
 Comp "Copyright 2015 Michael Ossmann"

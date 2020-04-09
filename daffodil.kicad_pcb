@@ -1,4 +1,4 @@
-(kicad_pcb (version 20171130) (host pcbnew 5.1.5-52549c5~84~ubuntu18.04.1)
+(kicad_pcb (version 20171130) (host pcbnew 5.1.4+dfsg1-1)
 
   (general
     (thickness 1.6)
@@ -10,6 +10,13 @@
   )
 
   (page A4)
+  (title_block
+    (title "Daffodil: A Sodlerless Breadboard Neighbor for GreatFET One")
+    (rev 1.0)
+    (company "Copyright 2015 Michael Ossmann")
+    (comment 1 "License: CERN-OHL-P v2")
+  )
+
   (layers
     (0 F.Cu signal)
     (31 B.Cu signal)
@@ -248,6 +255,8 @@
     (via_drill 0.3302)
     (uvia_dia 0.508)
     (uvia_drill 0.2032)
+    (add_net +3V3)
+    (add_net +5V)
     (add_net /32KHZ)
     (add_net /ADC0_0)
     (add_net /ADC0_2)
@@ -340,7 +349,6 @@
     (add_net /RESET)
     (add_net /RTC_ALARM)
     (add_net /VBAT)
-    (add_net +5V)
     (add_net /WAKEUP0)
     (add_net GND)
     (add_net "Net-(P1-Pad25)")
@@ -391,7 +399,6 @@
     (add_net "Net-(P1-Pad70)")
     (add_net "Net-(P1-Pad71)")
     (add_net "Net-(P1-Pad72)")
-    (add_net +3V3)
   )
 
   (module gsg-modules:HEADER-1x20 (layer F.Cu) (tedit 560071ED) (tstamp 56008D0F)
